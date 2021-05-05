@@ -1,4 +1,4 @@
-# excel-formula-print
+# FormulaPrint
 
 VBA macro for Microsof Excel that will replace a cell based formula with variables defined in a seperate column. Perfect for engineering calculations!
 
